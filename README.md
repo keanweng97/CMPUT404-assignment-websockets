@@ -17,6 +17,29 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+References
+==========
+[WebSockets Examples (HTML)](https://github.com/abramhindle/WebSocketsExamples/blob/master/static/chat.html)
+- From [Dr. Abram Hindle](https://github.com/abramhindle)
+- Retrieved Mar 25, 2021
+
+[WebSockets Examples (Python)](https://github.com/abramhindle/WebSocketsExamples/blob/master/static/chat.html)
+- From [Dr. Abram Hindle](https://github.com/abramhindle)
+- Retrieved Mar 25, 2021
+
+[CanvasRenderingContext2D.fillText()](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/fillText)
+- From [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/About)
+- Retrieved Mar 25, 2021
+
+[for...in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+- From [MDN Web Docs](https://developer.mozilla.org/en-US/docs/MDN/About)
+- Retrieved Mar 25, 2021
+
+[WebSocket send()](https://stackoverflow.com/a/11190111)
+- From [pimvdb](https://stackoverflow.com/users/514749/pimvdb)
+- Retrieved Mar 25, 2021
+
+
 Contributors / Licensing
 ========================
 
